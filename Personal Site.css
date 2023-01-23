@@ -1,0 +1,63 @@
+.yaboi {
+    height: 5vh;
+    width: 100%;
+    background: grey;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.nombre {
+    color: coral;
+    text-decoration: none;
+}
+
+.nombre:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+#nombre {
+    color: coral;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 50px;
+}
+
+nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: coral;
+    transition: 500ms;
+}
+
+.bio-text {
+
+    color: black;
+}
+
+h3 {
+    background: coral;
+}
+
+body {
+    background: grey;
+}
+
+#zoomTop {
+    color: coral;
+
+}
+
+.imageText {
+    color: white;
+}
